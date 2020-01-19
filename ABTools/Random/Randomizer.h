@@ -2,7 +2,7 @@
 
 #include <random>
 
-namespace AB
+namespace ABTools
 {
 	class Randomizer
 	{

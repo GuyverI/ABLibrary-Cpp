@@ -1,6 +1,6 @@
 #include "Randomizer.h"
 
-namespace AB
+namespace ABTools
 {
 	static const Randomizer::Seed DEFAULT_SEED = 1;
 
